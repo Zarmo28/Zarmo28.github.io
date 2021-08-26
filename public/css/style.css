@@ -582,6 +582,10 @@ footer ul .fa-hands-helping {
   .operation h2 {
     text-align: center;
   }
+  h3
+  {
+    text-align: center
+  }
 }
 .operation__steps {
   list-style-type: none;
