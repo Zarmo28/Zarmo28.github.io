@@ -36,6 +36,10 @@ font-size: 1.5em;
 body, html {
   font-family: "Roboto", sans-serif;
 }
+.operation__steps
+{
+ padding: 15px;
+}
 @keyframes grow {
   0%, 100% {
     -webkit-transform: scaleY(1);
